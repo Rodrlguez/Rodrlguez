@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 Hello, I´m Juan Salvador
+
+:paperclip: I’m currently working on administration.
+:computer: I’m currently learning programming, html, css, javascript.
+:sunglasses: I’m looking to collaborate on web design to gain experience
+:mailbox: How to reach me: send me mail js.benavidesrodriguez@gmail.com
+
+See you soon :smiley:
 <!--
 **Rodrlguez/Rodrlguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
