@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, I´m Juan Salvador
+## Hello, *I´m* **Juan Salvador** :wink:
 
 :paperclip: I’m currently working on administration.
 :computer: I’m currently learning programming, html, css, javascript.
